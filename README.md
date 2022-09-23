@@ -28,6 +28,19 @@ WordPress demo data for clean WP installations
 └── test-xml.xml
 ```
 
+### Wordpress 6.0.2
+
+Sorry, you are not allowed to upload this file type:
+
+- test-ico.ico  
+- test-xml.xml  
+- test-vcf.vcf  
+- test-svg.svg  
+- test-sketch.sketch  
+- test-json.json  
+- empty  
+
 ### See also
 - [Ghost styleguide](https://play-with-ghost.com/barber-london/style-guide/)
 - [Ghost mini styleguide](https://dawn.ghost.io/style-guide/)
+
